@@ -9,13 +9,13 @@ import Footer from './Components/Footer';
 
 const App = () => {
   const router = createBrowserRouter([
-   { path: "/Excel-Made-Easy",
+   { path: "/",
     element:<><Navbar/><Home/></>
   },
-  { path: "/Excel-Made-Easy/About",
+  { path: "/About",
     element:<><Navbar/><About/></>
   },
-  { path: "/Excel-Made-Easy/Contact",
+  { path: "/Contact",
     element:<><Navbar/><Contact/></>  }
 
 
