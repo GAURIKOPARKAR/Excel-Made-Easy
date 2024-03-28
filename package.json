@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gaurikoparkar.github.io",
+  "homepage": "https://gaurikoparkar.github.io/Excel-Made-Easy/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
