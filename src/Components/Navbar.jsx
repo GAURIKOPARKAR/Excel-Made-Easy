@@ -6,7 +6,7 @@ const Navbar = () => {
     <>
       <nav className='bg-green-600 w-full sm:h-15 p-4 flex flex-col sm:flex-row justify-between items-center'>
         <div className='flex items-center justify-center sm:justify-start'>
-          <img className='h-8 w-8 m-2' src="./dist/Images/logo.png" alt="" />
+          <img className='h-8 w-8 m-2' src="./Images/logo.png" alt="" />
           <div className='text-yellow-200 text-xl sm:text-2xl font-bold'>Excel Made Easy</div>
         </div>
         <ul className="flex justify-center sm:justify-start items-center gap-4 sm:gap-12">

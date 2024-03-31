@@ -22,7 +22,7 @@ const router = createBrowserRouter([
 ]);
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-     <div className='bg-[url("./dist/Images/grid.avif")] sm:h-screen sm:w-screen'>
+     <div className='bg-[url("./Images/grid.avif")] sm:h-screen sm:w-screen'>
         
        
      <RouterProvider router={router}></RouterProvider>
