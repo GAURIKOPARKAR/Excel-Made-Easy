@@ -7,7 +7,7 @@ const About = () => {
 
   return (
     <div className="xl:flex sm:flex-col justify-center items-center m-8">
-      <img className="h-48 w-48 rounded-full border-4 border-gray-200 mr-8" src={"./public/Images/ash.jpeg"} alt="Ashok" />
+      <img className="h-48 w-48 rounded-full border-4 border-gray-200 mr-8" src={"./dist/Images/ash.jpeg"} alt="Ashok" />
       <div className="bg-white p-6 rounded-lg shadow-md">
         <div className="text-blue-500 text-2xl font-bold mb-4">Name: Ashok Koparkar</div>
         <div className="text-gray-700 mb-4">{para1}</div>
