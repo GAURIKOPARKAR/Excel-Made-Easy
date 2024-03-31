@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
     <>
-      <nav className='bg-green-600 w-full sm:h-15 p-4 flex flex-col sm:flex-row justify-between items-center'>
+      <nav className='sticky top-0 left-0 bg-green-600 w-full sm:h-15 p-4 flex flex-col sm:flex-row justify-between items-center'>
         <div className='flex items-center justify-center sm:justify-start'>
           <img className='h-8 w-8 m-2' src="./Images/logo.png" alt="" />
           <div className='text-yellow-200 text-xl sm:text-2xl font-bold'>Excel Made Easy</div>
